@@ -1,0 +1,47 @@
+[
+    {
+        "id": 1,
+        "titulo": "Tiramisu clásico",
+        "imagen": "/img/tiramisu.jpg",
+        "ingredientes": [
+            "250g de queso mascarpone",
+            "3 huevos",
+            "100g de azúcar",
+            "200g de bizcochos de soletilla",
+            "300ml de café fuerte",
+            "Cacao en polvo para espolvorear"
+        ],
+        "pasos": [
+            "Separar las claras de las yemas. Batir las yemas con el azúcar hasta obtener una mezcla cremosa.",
+            "Agregar el queso mascarpone a la mezcla de yemas y mezclar bien.",
+            "Batir las claras a punto de nieve e incorporarlas suavemente a la mezcla anterior.",
+            "Sumergir los bizcochos en el café y colocarlos en el fondo de un molde.",
+            "Cubrir los bizcochos con una capa de la mezcla de mascarpone. Repetir el proceso hasta terminar con una capa de mascarpone.",
+            "Refrigerar durante al menos 4 horas. Antes de servir, espolvorear con cacao en polvo."
+        ],
+        "tiempo": 40,
+        "dificultad": "Media"
+    },
+    {
+        "id": 2,
+        "titulo": "Tarta de queso",
+        "imagen": "/img/tarta_queso.jpg",
+        "ingredientes": [
+            "galletas",
+
+            "mantequilla",
+            "queso crema",
+            "azúcar",
+            "huevos",
+            "vainilla"
+        ],
+        "pasos": [
+            "Triturar las galletas y mezclarlas con la mantequilla derretida. Presionar esta mezcla en el fondo de un molde para formar la base de la tarta.",
+            "En un bol, batir el queso crema con el azúcar hasta obtener una mezcla suave. Agregar los huevos uno a uno, mezclando bien después de cada adición. Añadir la vainilla y mezclar nuevamente.",
+            "Verter la mezcla sobre la base de galletas y hornear a 180°C durante 45-50 minutos, o hasta que el centro esté casi cuajado.",
+            "Dejar enfriar a temperatura ambiente y luego refrigerar durante al menos 4 horas antes de servir."
+        ],
+        "tiempo": 60,
+        "dificultad": "Fácil"
+    }
+]
