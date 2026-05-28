@@ -2,7 +2,7 @@
     {
         "id": 1,
         "titulo": "Tiramisu clásico",
-        "imagen": "/img/tiramisu.jpg",
+        "imagen": "/img/tiramisu.webp",
         "ingredientes": [
             "250g de queso mascarpone",
             "3 huevos",
@@ -25,7 +25,7 @@
     {
         "id": 2,
         "titulo": "Tarta de queso",
-        "imagen": "/img/tarta_queso.jpg",
+        "imagen": "/img/tartaQueso.webp",
         "ingredientes": [
             "galletas",
 
